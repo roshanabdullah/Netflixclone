@@ -1,0 +1,172 @@
+@media only screen and (min-width: 360px) and (max-width:640px){
+
+   #logoIMG{
+        height:50px;
+        width:140px;
+   }
+   header{
+     padding:20px;
+    
+   }
+   .Hero{
+        height:500px;
+        padding:0;
+        margin-top:-90px;
+       
+   }
+   header button{
+       font-size:15px;
+       padding:5px 15px;
+   }
+   .heroHeading1{
+       font-size:30px;
+   }
+   .heroHeading2{
+       font-size:20px;
+   }
+   .heroPara{
+       font-size:12px;
+   }
+
+
+   /* Hero Section 1 */
+   #fullWidth{
+       padding:15px 10px 15px 10px;
+       font-size:12px;
+       
+       
+    }
+   #heroButton{
+       font-size:11px;
+       padding:7px 10px 7px 10px;
+        
+    }
+    #emailDiv{
+       width: 300px; 
+       margin:0 auto;
+       margin-top:20px;
+        
+    }
+
+    /* Hero Section 2 */
+    
+    .Hero2{
+        flex-direction:column-reverse;
+        padding:10px;
+    }
+    .column2 img{
+        height:200px;
+        width:350px;
+    }
+    .hero2Heading1{
+        font-size:25px;
+        text-align: center;
+        line-height: normal;
+    }
+    .hero2Heading2{
+        text-align: center;
+        font-size:15px;
+    }
+
+    /* Hero 3 */
+
+    .Hero3{
+        flex-direction: column-reverse;
+        padding:10px;
+    }
+
+    .column3 img{
+        height:300px;
+        width:380px;
+        
+    }
+    .hero3Heading1{
+        font-size:25px;
+        line-height: normal;
+        text-align: center;
+    }
+    .hero3Heading2{
+        text-align: center;
+        font-size:15px;
+    }
+
+    /* Hero 4 */
+
+    .watchSection{
+        flex-direction:column;
+        padding:20px;
+    }
+
+    .watchHeading1{
+        font-size:25px;
+        line-height: normal;
+        text-align: center;
+    
+      
+    }
+    .watchHeading2{
+        font-size:15px;
+        line-height: normal;
+        text-align: center;
+       
+        
+    }
+
+    /* Hero 5 */
+    .Hero5{
+        flex-direction: column;
+        padding:10px;
+    }
+    .column5 img{
+        height:200px;
+        width:250px;
+    }
+    .column6{
+        padding:40px;
+    }
+    .hero5Heading1{
+        font-size:25px;
+        line-height: normal;
+        text-align: center;
+    }
+    .hero5Heading2{
+        font-size:15px;
+        line-height: normal;
+        text-align: center;
+    }
+
+    /*FAQ */
+
+    .FAQ{
+        padding:20px;
+    }
+    .faqHeading{
+        font-size:25px;
+        line-height: normal;
+        text-align: center;
+    }
+    .faq-style-wrapper{
+        width:250px;
+    }
+    .faq-style-wrapper .faq-body .faq-row .row-title{
+        font-size:12px !important;
+    }
+    .faq-style-wrapper .faq-body .faq-row .row-content-text{
+        font-size:12px !important;
+    }
+    .getStartedPara{
+        font-size:15px;
+        line-height: normal;
+        text-align: center;
+    }
+
+    /* Footer */
+    .linkColumn1 ul li{
+        font-size:10px;
+        line-height: normal;
+    }
+    .country p{
+        font-size:10px;
+        line-height: normal;
+    }
+}  
