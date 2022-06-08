@@ -1,0 +1,86 @@
+#topLogo img{
+    height:90px;
+    width:190px;
+}
+
+#signUpBody{
+    height:100%;   
+    background: rgba(0,0,0,0.7) url("./media/images/heroback.jpg") no-repeat;
+    background-size:cover;
+    background-blend-mode:overlay; 
+}
+#signUpForm{
+    margin:0 auto;
+    background-color: rgba(0,0,0,0.6);
+    height:550px;
+    width:450px;
+    padding:60px;
+    display:flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    row-gap: 40px;
+
+}
+#myForm1{
+    display:flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    row-gap: 15px;
+}
+#signUpForm h1{
+    font-size:32px;
+    line-height: normal;
+    font-family: 'Roboto Slab', serif;
+    color:#fff;
+    font-weight: 700;
+}
+
+#bgText1{
+    background-color:#E8F0FE;
+    border: 1px solid #E8F0FE;
+    padding:14px;
+    font-size: 14px;
+    line-height: normal;
+    font-family: 'Roboto Slab', serif;
+    border-radius:5px;
+}
+
+#bgText1:hover{
+    outline: none !important;
+    border:1px solid #E8F0FE;
+}
+#bgText1:focus{
+    outline:none !important;
+    border:1px solid #E8F0FE;
+}
+#bgButton1{
+    background-color: red;
+    padding:14px;
+    font-size: 14px;
+    line-height: normal;
+    font-family: 'Roboto Slab', serif;
+    border:1px solid red;
+    border-radius: 5px;
+}
+#needHelp{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items:flex-start;
+    
+}
+#needLink{
+    color:#fff;
+    font-size:12px;
+    line-height: normal;
+    font-family: 'Roboto Slab', serif;
+    margin-top: 11px;
+   
+}
+#signUpForm p{
+    color:#fff;
+}
+#lastLink{
+    color:#fff;
+}
+

@@ -3,6 +3,7 @@ import Header from "./Header";
 import Hero from "./Hero";
 import '../App.css';
 import '../MediaQuery.css';
+
 import HeroSection2 from "./HeroSection2";
 import HeroSection3 from "./HeroSection3";
 import HeroSection4 from "./HeroSection4";
